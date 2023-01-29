@@ -3,6 +3,7 @@ name = "rdc-macros"
 version = "0.1.0"
 edition = "2021"
 authors = ["Szymon Dziwak"]
+description = "Macros for rdc crate"
 license = "MIT"
 
 [dependencies]
